@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>EduTech - Actualizaciones Educativas</title>
+  <link href="https://www.ejemplo1.com/"/>
+  <updated>2025-04-13T14:00:00Z</updated>
+  <author>
+    <name>Equipo EduTech</name>
+  </author>
+  <id>https://www.ejemplo1.com/feed</id>
+
+  <entry>
+    <title>Nuevo Módulo: Fundamentos de Programación</title>
+    <link href="https://www.ejemplo2.com/cursos/programacion/modulo1"/>
+    <id>https://www.ejemplo2.com/cursos/programacion/modulo1</id>
+    <updated>2025-04-12T10:00:00Z</updated>
+    <summary>El módulo inicial del curso de programación ya está disponible. Aprende sobre algoritmos, variables y estructuras básicas.</summary>
+    <author>
+      <name>Ing. Ana Pérez</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Actualización: Calendario de Evaluaciones 2025</title>
+    <link href="https://www.ejemplo3.com/informacion/calendario-evaluaciones"/>
+    <id>https://www.ejemplo3.com/informacion/calendario-evaluaciones</id>
+    <updated>2025-04-11T16:30:00Z</updated>
+    <summary>Consulta las fechas clave de exámenes y entregas para este semestre.</summary>
+    <author>
+      <name>Coordinación Académica</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Recurso Descargable: Plantilla de Informe Técnico</title>
+    <link href="https://www.ejemplo4.com/recursos/informe-tecnico"/>
+    <id>https://www.ejemplo4.com/recursos/informe-tecnico</id>
+    <updated>2025-04-10T09:15:00Z</updated>
+    <summary>Descarga una plantilla editable para estructurar tus informes académicos de manera profesional.</summary>
+    <author>
+      <name>Prof. David Ríos</name>
+    </author>
+  </entry>
+
+</feed>
